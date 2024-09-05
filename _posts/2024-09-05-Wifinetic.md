@@ -125,7 +125,7 @@ ssh netadmin@10.10.11.247
 <br />
 
 It actually reuses passwords, so we just have to **grab the flag** and continue to privilege escalation:
-
+<br />
 ![userown](/assets/Wifinetic/8.png)
 <br />
 <br />
