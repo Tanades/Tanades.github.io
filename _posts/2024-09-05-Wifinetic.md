@@ -197,6 +197,7 @@ su root
 <br />
 
 Great, let's grab the flag and get out:
+<br />
 ![rootown](/assets/Wifinetic/14.png)
 <br />
 <br />
