@@ -311,8 +311,6 @@ sudo ssh -o ProxyCommand=';bash 0<&2 1>&2' x
 
 We only have to grab the **root flag**:
 
-<br />
-
 ![](/assets/CozyHosting/28.png)
 <br />
 <br />
