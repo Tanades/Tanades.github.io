@@ -264,10 +264,9 @@ We can try to crack them, however only the **hash for the admin user** returns a
 ```bash
 john --wordlist=/usr/share/wordlist/rockyou.txt admin_hash
 ```
+<br />
 
 We can **reuse this password** for the **user josh** and get the **user flag**:
-
-<br />
 
 ![](/assets/CozyHosting/24.png)
 <br />
