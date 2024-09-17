@@ -185,6 +185,9 @@ uname -r
 Searching for this version number revealed an [exploit](https://github.com/g1vi/CVE-2023-2640-CVE-2023-32629) created by g1vi called **Game Over(lay)** that leverages **CVE-2023-2640** and **CVE-2023-32629**:
 
 ![](/assets/Analytics/10.png)
+<br />
+<br />
+<br />
 
 This exploit is actually a **one-liner** that we can execute to **gain root privileges** and **print the flag**:
 ```bash
