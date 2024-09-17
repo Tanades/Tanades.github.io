@@ -137,7 +137,7 @@ However, after some enumeration, we can see that **we are in a container**, this
 
 ```bash
 hostname
-ls -la /.dockerven
+ls -la /.dockerenv
 ```
 ![](/assets/Analytics/6.png)
 <br />
