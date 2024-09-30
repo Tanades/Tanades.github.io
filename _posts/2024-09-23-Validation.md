@@ -86,7 +86,7 @@ The scan reports nothing interesting.
 <br />
 ### Foothold
 
-The foothold in this machine """easy""", the quotes are there because **SQLi** is very difficult for me.
+The foothold in this machine is """easy""", the quotes are there because **SQLi** is very difficult for me.
 
 <br />
 
