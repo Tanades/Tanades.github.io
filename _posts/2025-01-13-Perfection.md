@@ -60,7 +60,7 @@ sudo nmap -sS 10.10.11.253 -p 22,80 -T4 --min-rate 5000 -oX open_tcp_ports.xml -
 
 We can see that the services correspond to:
 + **22/tcp OpenSSH 8.9p1**
-+ **80/tcp nginx
++ **80/tcp nginx**
 
 <br />
 
